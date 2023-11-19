@@ -1,0 +1,22 @@
+@import 'styles/shared-imports.scss';
+
+.connect-button {
+  width: 227px;
+  height: 40px;
+  flex-shrink: 0;
+
+  border-radius: 3px;
+  background: rgba(188, 112, 101, 1);
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  color: #FFF;
+  text-align: center;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 200%;
+}
